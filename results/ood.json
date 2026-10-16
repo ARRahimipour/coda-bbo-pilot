@@ -1,0 +1,7 @@
+{
+  "auroc": 0.7969444444444445,
+  "reference_flag_rate_pct": 3.888888888888889,
+  "heldout_flag_rate_pct": 38.333333333333336,
+  "independent_seed_task_records": 360,
+  "family_clusters": 6
+}

@@ -1,0 +1,20 @@
+# Python and local development
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated proposal (can be rebuilt from the script)
+CODA_BBO_English_Proposal.docx
+
+# Keep the included benchmark results and figures under version control.

@@ -1,0 +1,17 @@
+test_all_methods_exact_budget (test_pilot.PilotTests.test_all_methods_exact_budget) ... ok
+test_budget_guard (test_pilot.PilotTests.test_budget_guard) ... ok
+test_common_probe (test_pilot.PilotTests.test_common_probe) ... ok
+test_determinism (test_pilot.PilotTests.test_determinism) ... ok
+test_feature_affine_fitness_invariance (test_pilot.PilotTests.test_feature_affine_fitness_invariance) ... ok
+test_invalid_program (test_pilot.PilotTests.test_invalid_program) ... ok
+test_known_minima (test_pilot.PilotTests.test_known_minima) ... ok
+test_nonnegative (test_pilot.PilotTests.test_nonnegative) ... ok
+test_proposal_bounds (test_pilot.PilotTests.test_proposal_bounds) ... ok
+test_reference_excludes_holdout (test_pilot.PilotTests.test_reference_excludes_holdout) ... ok
+test_reject_invalid_point (test_pilot.PilotTests.test_reject_invalid_point) ... ok
+test_trial_accounting (test_pilot.PilotTests.test_trial_accounting) ... ok
+
+----------------------------------------------------------------------
+Ran 12 tests in 0.224s
+
+OK
